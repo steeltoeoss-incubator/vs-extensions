@@ -1,6 +1,11 @@
+version 2.4.2
+- [X] Re-version this project to follow Steeltoe
+- [X] Bump all .NET Framework projects to 4.8
+- [X] Bump all .NET Core projects to 3.1
+- [X] Bump all Steeltoe references to 2.4.2
 
-0.0.1
 
+version 0.0.1
 - [X] Initialize Project
 - [X] Initialize github repository
 - [X] Cask
