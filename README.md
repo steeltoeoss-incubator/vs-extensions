@@ -1,3 +1,5 @@
+# vs-extensions is no longer actively maintained by VMware, Inc.
+
 # Visual Studio Templates
 
 Steeltoe is an open source project that enables .NET developers to implement industry standard best practices when building resilient microservices for the cloud. The Steeltoe client libraries enable .NET Core and .NET Framework apps to easily leverage Netflix Eureka, Hystrix, Spring Cloud Config Server, and Cloud Foundry services.
